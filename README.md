@@ -1,10 +1,3 @@
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/d03n3rfr1tz3/TTGO.T-Watch.2020.svg?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/license/d03n3rfr1tz3/TTGO.T-Watch.2020.svg?style=for-the-badge" />
-</p>
-<hr/>
-
 ## Warning
 
 This repository only represents the state of my own T-Watch. I will implement some apps that are very specific for my needs and will also disabled apps that I personally don't need. Maybe you find something interesting and maybe I'll create a PR for some apps I might create in the future, but currently nothing concrete is planned.
@@ -177,7 +170,3 @@ and the following projects:
 
 Every Contribution to this repository is highly welcome! Don't fear to create pull requests which enhance or fix the project, you are going to help everybody.
 <p>
-If you want to donate to the author then you can buy me a coffee.
-<br/><br/>
-<a href="https://www.buymeacoffee.com/sharandac" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%82%AC5-orange?style=for-the-badge&logo=buy-me-a-coffee" /></a>
-</p>
